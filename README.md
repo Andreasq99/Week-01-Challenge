@@ -17,7 +17,8 @@ Here is a screenshot of the webpage.
 
 ## Credits
 
-W3 was really helpful here. Also thanks to Kai and Carl for teaching me!! :)
+W3 was really helpful for figuring out the CSS code. I also used this StackOverflow page to make the 'hero' image fit properly: https://stackoverflow.com/questions/2623603/crop-an-image-instead-of-stretching-it
+Also thanks to Kai and Carl for teaching me!! :)
 
 ## License
 
